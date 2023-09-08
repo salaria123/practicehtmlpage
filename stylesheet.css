@@ -1,0 +1,118 @@
+body{
+    background:url(assests/marek-piwnicki-MlRbhx_1Vy0-unsplash.jpg) ;
+}
+.img{
+   height: 75px;
+   position: absolute;
+   display: block;
+   left: 10%;
+   top: 0%;
+}
+.nav-bar{
+    position: absolute;
+    right: 30%;
+    top: -10px;
+    
+}
+.nav-btn{
+    margin: 20px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color: antiquewhite;
+    
+}
+.nav-btn:hover{
+    color: blue;
+}
+.nav-cont{
+    position: absolute;
+    right: 15%;
+    top: 0%;
+}
+.nav-btn2{
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    color: antiquewhite;
+    
+}
+.nav-btn3{
+    border: 2px solid blue;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    cursor: pointer;
+
+}
+.nav-btn3 a{
+    text-decoration: none;
+    cursor: pointer;
+}
+.sec{
+    display: block;
+    width: 40%;
+    position: absolute;
+    top: 15%;
+    left:10% ;
+    font-size: 50px;
+    color: rgb(194, 103, 103);
+}
+
+.body{
+    width: 400px;
+    padding: 20px;
+    position: absolute;
+    margin: 10px;
+    left: 8%;
+    bottom: -20%;
+}
+.input-box{
+    border-radius: 30px;
+    padding: 20px;
+    margin: 10px 0;
+    width: 90%;
+}
+.sign-btn{
+    width: 100%;
+    font-size: 15px;
+    color: black;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 25px;
+}
+.sign-btn1{
+    width: 100%;
+    font-size: 15px;
+    color: white;
+    background-color: blue;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 25px;
+}
+.or{
+    text-align: center;
+}
+.bodyimg{
+    display: block;
+    position: absolute;
+    right: -5%;
+    bottom: -10%;
+}
+.foot{
+    position: absolute;
+    bottom: -20%;
+    right: 40%;
+    font-size: 20px;
+}
+.img2{
+    width: 85%;
+    height: 100%;
+}
